@@ -1,0 +1,12 @@
+REST API - JSON
+
+GET /users - Html format 
+GET /api/users - List all users in JSON Format
+GET /api/users/1 - Get the user with ID 1 in JSON Format 
+GET /api/users/2 - Get the user with ID 2 in JSON Format 
+
+POST /api/users - Create new user in JSON Format
+
+PATCH /api/users/1 - Edit the user with ID 1 in JSON Format
+
+DELETE /api/users/1 - Delete the user with ID 1 in JSON Format

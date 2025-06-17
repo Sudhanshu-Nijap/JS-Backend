@@ -1,1 +1,1 @@
-# MERN-Practice
+# JS-Backend
